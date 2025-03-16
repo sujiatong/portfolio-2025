@@ -4,13 +4,12 @@
 
 ### Category Name 1 
 
-this is jiatong su
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Forecast Metro train delays in and around NYC](/sample_page)
+<img src="images/delay_NJ.png"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
+[Boston Blue Bike Stations](https://sujiatong.github.io/Boston_bike_dashboard/boston_bike/index.html)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
