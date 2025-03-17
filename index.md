@@ -7,12 +7,12 @@ this is jiatong
 
 
 [Forecast Metro train delays in and around NYC](https://sujiatong.github.io/Forecast_Metro_train_delays/ppa_final.html)
-<img src="images/delay_NJ.png"/>
+<img src="images/delay_NJ.png?raw=true" width="400"/>
 
 ---
-[Boston Blue Bike Stations](https://sujiatong.github.io/Boston_bike_dashboard/boston_bike/index.html)
-this is 
-<img src="images/blue_bike.png"/>
+[Boston Blue Bike Stations](https://sujiatong.github.io/Boston_bike_dashboard/boston_bike/index.html)  
+<img src="images/blue_bike.png?raw=true" width="400"/>
+
 
 ---
 [Project 3 Title](http://example.com/)
