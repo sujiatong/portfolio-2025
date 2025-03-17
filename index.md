@@ -2,7 +2,15 @@
 
 ---
 
-this is jiatong 
+Hello! I'm Jiatong Su, a passionate researcher and data analyst specializing in transportation planning, geospatial analysis, and data visualization. With a strong background in R, Python, GIS, and machine learning.
+
+🚀 Skills & Tools
+
+- Programming: Python (pandas, geopandas, matplotlib, scikit-learn), R (ggplot2, sf, tidymodels)
+- Data Visualization: Tableau, Leaflet, Plotly, D3.js
+- Geospatial Analysis: GIS, QGIS, GeoJSON, Shapefiles
+- Machine Learning: Regression, clustering, predictive modeling
+
 ### Category Name 1 
 
 
