@@ -15,9 +15,3 @@ plugins:
 - jekyll-remote-theme
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here
 
-# Custom style
-style: |
-  body {
-    background-color: #f5f5dc; /* Beige background */
-    color: #5c4033; /* Dark brown text */
-  }
