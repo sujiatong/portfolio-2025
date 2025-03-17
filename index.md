@@ -11,7 +11,7 @@ Hello! I'm Jiatong Su, a passionate researcher and data analyst specializing in 
 - Geospatial Analysis: GIS, QGIS, GeoJSON, Shapefiles
 - Machine Learning: Regression, clustering, predictive modeling
 
-### Category Name 1 
+### data analysis and web visulization
 
 
 [Forecast Metro train delays in and around NYC](https://sujiatong.github.io/Forecast_Metro_train_delays/ppa_final.html)
