@@ -2,10 +2,11 @@ title: Jiatong Su  # your name (or website title) here
 logo: "/images/logo.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   First description 
+  🚀 Explore my projects in Python, R, and JavaScript.  
   <br><br>
   Second description 
   <br><br>
-  <a href="https://www.linkedin.com/in/jiatong-su-415b71216/">View My LinkedIn Profile</a> 
+  [🔗 View My LinkedIn](https://www.linkedin.com/in/jiatong-su-415b71216/)
   
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
