@@ -6,12 +6,13 @@ this is jiatong
 ### Category Name 1 
 
 
-[Forecast Metro train delays in and around NYC](/sample_page)
+[Forecast Metro train delays in and around NYC](https://sujiatong.github.io/Forecast_Metro_train_delays/ppa_final.html)
 <img src="images/delay_NJ.png"/>
 
 ---
 [Boston Blue Bike Stations](https://sujiatong.github.io/Boston_bike_dashboard/boston_bike/index.html)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+this is 
+<img src="images/blue_bike.png"/>
 
 ---
 [Project 3 Title](http://example.com/)
@@ -21,7 +22,7 @@ this is jiatong
 
 ### Category Name 2
 
-- [Project 1 Title](http://example.com/)
+- [30 days map challenge](http://example.com/)
 - [Project 2 Title](http://example.com/)
 - [Project 3 Title](http://example.com/)
 - [Project 4 Title](http://example.com/)
