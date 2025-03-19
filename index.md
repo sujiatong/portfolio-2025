@@ -11,22 +11,38 @@ Hello! I'm Jiatong Su, a passionate researcher and data analyst specializing in 
 - Geospatial Analysis: GIS, QGIS, GeoJSON, Shapefiles
 - Machine Learning: Regression, clustering, predictive modeling
 
-### data analysis and web visulization
+### Feature project
+
 
 
 [Forecast Metro train delays in and around NYC](https://sujiatong.github.io/Forecast_Metro_train_delays/ppa_final.html)
 
+📍 Tools: R (regression, clustering)
+
+📊 Summary: Developed a predictive model for NJ transit delays using real-time data.
+
+
 <img src="images/delay_NJ.png?raw=true" width="400"/>
 
 ---
-[Boston Blue Bike Stations](https://sujiatong.github.io/Boston_bike_dashboard/boston_bike/index.html)  
+[🚴Boston Blue Bike Stations dashboard](https://sujiatong.github.io/Boston_bike_dashboard/boston_bike/index.html)  
+
+
+📍 Tools: JavaScript (Leaflet.js)
+
+📊 Summary: Built an interactive map to analyze Boston’s bike-sharing network.
 
 <img src="images/blue_bike.png?raw=true" width="400"/>
 
 
 ---
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[🚲 Bike Share Demand Prediction](https://sujiatong.github.io/ppa_upenn/hw5b/Su_Jiatong_HW5b.html)
+
+📍 Tools: R (time series modeling, machine learning)
+
+📊 Summary: Forecasted bike-sharing demand using historical trends and weather data.
+
+<img src="images/BIKE_PREDICT.png" width = "400"/>
 
 ---
 
