@@ -29,7 +29,6 @@ Hello! I'm Jiatong Su, a passionate researcher and data analyst specializing in 
 
 
 📍 Tools: JavaScript (Leaflet.js)
-
 📊 Summary: Built an interactive map to analyze Boston’s bike-sharing network.
 
 <img src="images/blue_bike.png?raw=true" width="400"/>
@@ -46,16 +45,16 @@ Hello! I'm Jiatong Su, a passionate researcher and data analyst specializing in 
 
 ---
 
+
 ### Category Name 2
 
-- [30 days map challenge](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+- [Predicting Housing Prices in Philadelphia](https://sujiatong.github.io/ppa_upenn/ppa_final/PPA_midterm_Group%20Tong%20(2).html)
+- [Bike Share Prediction](https://sujiatong.github.io/ppa_upenn/hw5b/Su_Jiatong_HW5b.html)
+- [Geospatial Risk Prediction](https://sujiatong.github.io/ppa_upenn/HW3/Su_JiatongHW3.html)
+- [STORYMAP PROJECT](https://sujiatong.github.io/story_map_project/jiatong_su/index.html)
+- [Historical boundaries of world](https://sujiatong.github.io/engagement_project/frontend/index.html)
 
 ---
-
 
 
 
