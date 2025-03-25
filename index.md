@@ -46,7 +46,7 @@ Hello! I'm Jiatong Su, a passionate researcher and data analyst specializing in 
 ---
 
 
-### Category Name 2
+### Further feature project
 
 - [Predicting Housing Prices in Philadelphia](https://sujiatong.github.io/ppa_upenn/ppa_final/PPA_midterm_Group%20Tong%20(2).html)
 - [Bike Share Prediction](https://sujiatong.github.io/ppa_upenn/hw5b/Su_Jiatong_HW5b.html)
