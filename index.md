@@ -7,7 +7,6 @@ Hello! I'm Jiatong Su, a passionate researcher and data analyst specializing in 
 🚀 Skills & Tools
 
 - Programming: Python (pandas, geopandas, matplotlib, scikit-learn), R (ggplot2, sf, tidymodels)
-- Data Visualization: Tableau, Leaflet, Plotly, D3.js
 - Geospatial Analysis: GIS, QGIS, GeoJSON, Shapefiles
 - Machine Learning: Regression, clustering, predictive modeling
 
