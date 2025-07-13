@@ -38,7 +38,7 @@ Hello! I'm Jiatong Su, a passionate researcher and data analyst specializing in 
 
 📍 Tools: R (time series modeling, machine learning)
 
-📊 Summary: Forecasted bike-sharing demand using historical trends and weather data.,.,
+📊 Summary: Forecasted bike-sharing demand using historical trends and weather data.
 
 
 <img src="images/BIKE_PREDICT.png" width = "400"/>
